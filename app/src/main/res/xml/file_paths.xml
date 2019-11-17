@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="root"
+        path="." />
+    <external-path
+        name="my_images_dir"
+        path="/images/" />
+    <external-path
+        name="my_audios_dir"
+        path="/audios/" />
+    <external-path
+        name="my_videos_dir"
+        path="/videos/" />
+
+</PreferenceScreen>
